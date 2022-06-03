@@ -1,0 +1,139 @@
+body{
+  background-color: rgb(36, 35, 41);  
+  font-family: "Inter UI","SF Pro Display",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+  /* font-size: 30px;
+  font-weight: 500; */
+}
+.pheader{
+    margin: auto;
+    position: relative;
+    left: 47%;
+    font-family: "Inter UI","SF Pro Display",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: #5643CC;
+    text-shadow: rgba(123, 110, 221, 0.5) 0 1px 20px;
+}
+#buttons{
+    margin: 0;
+  position: absolute;
+  top: 25%;
+  left: 42%;
+  /*-ms-transform: translateY(-50%);*/
+  /*transform: translateY(-50%);*/
+
+}
+
+
+
+/* CSS */
+button {
+  /* position: absolute;
+  gap: 5px; */
+  background-image: linear-gradient(92.88deg, #455EB5 9.16%, #5643CC 43.89%, #673FD7 64.72%);
+  border-radius: 15px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  flex-shrink: 0;
+  font-family: "Inter UI","SF Pro Display",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  height: 100px;
+  padding: 0 1.6rem;
+  text-align: center;
+  text-shadow: rgba(0, 0, 0, 0.25) 0 3px 8px;
+  transition: all .5s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  box-shadow: rgba(123, 110, 221, 0.5) 0 1px 50px;
+  transition-duration: .1s;
+  
+}
+.date{
+    font-family: "Inter UI","SF Pro Display",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+    font-size: 20px;
+    margin: auto;
+    position: relative;
+   float:right;
+    
+}
+.animel{
+  /* color: #FFFFFF;
+  background-color: #d7d4e7;
+  width: 900px;
+  height: 500px; */
+  margin-top: 20%;
+
+}
+.clickon1{
+/* width: 300px;
+height: 300px; */
+margin-left: 47%;
+color: #673FD7;
+text-shadow: rgb(252, 252, 252) 0 1px 20px;
+/* background-color: #FFFFFF; */
+width: auto;
+font-style: oblique;
+
+
+}
+.clickon2{
+  width: 300px;
+height: 300px;
+margin-left: 40%;
+-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 50%;
+
+}
+/* .clickon2 :hover {
+	-webkit-box-shadow: 0 0 20px rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
+	-moz-box-shadow: 0 0 20px rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
+	box-shadow: 0 0 20px rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
+
+	-webkit-border-radius: 60em;
+	-moz-border-radius: 60em;
+	border-radius: 60em;
+} */
+/* .b1{
+
+  z-index: 20;
+} */
+.information0,.information1,.information2,.information3,.information4,.information5,.information6,.information7,.information8,.information9{
+  display: none;
+}
+
+
+
+
+
+
+
+/* img{
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+}
+
+img :hover {
+	-webkit-box-shadow: 0 0 20px rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
+	-moz-box-shadow: 0 0 20px rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
+	box-shadow: 0 0 20px rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
+
+	-webkit-border-radius: 60em;
+	-moz-border-radius: 60em;
+	border-radius: 60em;
+} */
